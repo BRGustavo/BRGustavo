@@ -1,8 +1,6 @@
 # Olá, visitante!
 Tudo bem?!
 
-Tenho 19 anos, moro em Arapoti - PR e gosto muito da área de programação. Sou programador iniciante em Python e Javascript com alguns conhecimentos na área de suporte técnico e redes de computadores.
-
 ## Repositórios
 <h3><a href='https://github.com/BRGustavo?tab=repositories' target='_blank'>> Meus repositórios</h3>
 
