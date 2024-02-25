@@ -1,15 +1,26 @@
-# Olá, visitante!
-Tudo bem?!
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo+ao+repositório+do+Gustavo!)](https://git.io/typing-svg)
+/
+### Conhecimentos
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![UiPath](https://img.shields.io/badge/-UiPath-0D1117?style=for-the-badge&logo=uipath&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-## Repositórios
-<h3><a href='https://github.com/BRGustavo?tab=repositories' target='_blank'>> Meus repositórios</h3>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BRGustavo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo de Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRGustavo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-## Projetos
-<h3><a href="https://github.com/BRGustavo/colaborarscraping/releases/tag/1.0.0"  target="_blank">> Sistema de inventário - Desktop</a></h3>
-<h3><a href="https://github.com/BRGustavo/bo-sistema" target="_blank">> Sistema de controle faturas e notas fiscais</a></h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BRGustavo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Redes Sociais
-<h4><a href='https://www.linkedin.com/in/gugusoliveira/' target="_blank">> Linkedin</h4>
-<h4><a href="https://twitter.com/gugusoliveira72" target="_blank">> Twitter</a></h4>
-<h4><a href="https://pastebin.com/u/BR_Gustavo" target="_blank">> Pastebin</a></h4>
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BRGUstavo}/count.svg" /></p> 
+<br></div>
